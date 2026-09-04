@@ -8,5 +8,5 @@ Desarrollar un programa en Python que permita gestionar la reserva de asientos d
 
 Como Ejecutarlo
 
-ómo ejecutar el programa:
+como ejecutar el programa:
 Abrir el programa reserva_cine.py. Luego ingresar la fila y columna del asiento que se desea reservar. El programa mostrará el estado completo de la sala utilizando 0 para asientos libres y 1 para asientos reservados.
